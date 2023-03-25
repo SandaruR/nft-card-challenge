@@ -33,6 +33,7 @@ main {
 .main-image img {
     width: 100%;
     border-radius: 10px;
+    display:flex;
 }
 .overlay {
     width: 100%;
